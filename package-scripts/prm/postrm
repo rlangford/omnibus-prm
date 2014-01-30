@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary prm removal steps
+# after package is uninstalled.
+#
+
+echo "prm has been uninstalled!"
+
+exit 0
