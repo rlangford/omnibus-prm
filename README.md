@@ -1,7 +1,7 @@
 # prm Omnibus project
 
 This project creates full-stack platform-specific packages for
-`prm`!
+`prm`! `prm` automagically creates apt and yum repos for you!
 
 ## Installation
 
